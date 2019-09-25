@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Dixit0340/PracticeDevOps/_apis/build/status/dixitshakya.pipelines-java?branchName=master)](https://dev.azure.com/Dixit0340/PracticeDevOps/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
